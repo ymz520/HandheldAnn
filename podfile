@@ -1,0 +1,8 @@
+platform :ios, '8.0'
+target 'HandheldAnn' do
+pod 'AFNetworking', '~> 3.0'
+pod 'NinaPagerView'
+pod 'Masonry'
+pod 'PNChart'
+pod 'IQKeyboardManager'
+end
